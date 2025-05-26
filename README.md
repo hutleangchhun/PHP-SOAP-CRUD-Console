@@ -2,4 +2,4 @@ PHP CRUD SOAP
 🚀 Features
 - SOAP 
 - CRUD operation
-- Data store in SOAP
+- Data store in XML file
